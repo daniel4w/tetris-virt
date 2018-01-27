@@ -1,6 +1,15 @@
 body {
-	align-content: center;
+	background: #202028;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 2em;
+	text-align: center;
 }
 canvas {
-	border: 1px solid black;
+	border: 1px solid #fff;
+	height: 70vh;
+}
+#audio_with_controls {
+	display: block;
+	margin: 0 auto;
 }
